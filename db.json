@@ -44,6 +44,16 @@
       "id": 9,
       "name": "Content Writer",
       "designation": "Support"
+    },
+    {
+      "id": 10,
+      "name": "Team Manager",
+      "designation": "Team Lead"
+    },
+    {
+      "id": 11,
+      "name": "Cheif Executive Officer",
+      "designation": "Org Lead"
     }
   ],
   "teams": [
@@ -100,6 +110,62 @@
       "managerId": 319,
       "teamName": "Zoho Recruit Content Support",
       "teamStrength": 5
+    }
+  ],
+  "managers": [
+    {
+      "id": 311,
+      "name": "Kodanda Rama Shanmughan",
+      "teamId": 101,
+      "roleId": 10
+    },
+    {
+      "id": 312,
+      "name": "Paul Wesley",
+      "teamId": 102,
+      "roleId": 10
+    },
+    {
+      "id": 313,
+      "name": "Ian Somerhalder",
+      "teamId": 103,
+      "roleId": 10
+    },
+    {
+      "id": 314,
+      "name": "Nina Dobrev",
+      "teamId": 104,
+      "roleId": 10
+    },
+    {
+      "id": 315,
+      "name": "Candice King",
+      "teamId": 105,
+      "roleId": 10
+    },
+    {
+      "id": 316,
+      "name": "Daniel Gillies",
+      "teamId": 106,
+      "roleId": 10
+    },
+    {
+      "id": 317,
+      "name": "Phoebie Tonkins",
+      "teamId": 107,
+      "roleId": 10
+    },
+    {
+      "id": 318,
+      "name": "Joseph Morgan",
+      "teamId": 108,
+      "roleId": 10
+    },
+    {
+      "id": 319,
+      "name": "Kat Graham",
+      "teamId": 109,
+      "roleId": 10
     }
   ]
 }
