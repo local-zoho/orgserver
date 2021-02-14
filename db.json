@@ -1,0 +1,49 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "name": "Web Application Developer",
+      "designation": "SDE"
+    },
+    {
+      "id": 2,
+      "name": "Android Application Developer",
+      "designation": "SDE"
+    },
+    {
+      "id": 3,
+      "name": "IOS Application Developer",
+      "designation": "SDE"
+    },
+    {
+      "id": 4,
+      "name": "Web Designer",
+      "designation": "Designer"
+    },
+    {
+      "id": 5,
+      "name": "Mobile UI Designer",
+      "designation": "Designer"
+    },
+    {
+      "id": 6,
+      "name": "Testing and Automation",
+      "designation": "SDET"
+    },
+    {
+      "id": 7,
+      "name": "Quality Assurance",
+      "designation": "SDET"
+    },
+    {
+      "id": 8,
+      "name": "Support Engineer",
+      "designation": "Support"
+    },
+    {
+      "id": 9,
+      "name": "Content Writer",
+      "designation": "Support"
+    }
+  ]
+}
