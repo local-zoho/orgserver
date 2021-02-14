@@ -45,5 +45,61 @@
       "name": "Content Writer",
       "designation": "Support"
     }
+  ],
+  "teams": [
+    {
+      "id": 101,
+      "managerId": 311,
+      "teamName": "Zoho Recruit Web",
+      "teamStrength": 20
+    },
+    {
+      "id": 102,
+      "managerId": 312,
+      "teamName": "Zoho Recruit Android",
+      "teamStrength": 5
+    },
+    {
+      "id": 103,
+      "managerId": 313,
+      "teamName": "Zoho Recruit IOS",
+      "teamStrength": 5
+    },
+    {
+      "id": 104,
+      "managerId": 314,
+      "teamName": "Zoho Recruit Web UI",
+      "teamStrength": 3
+    },
+    {
+      "id": 105,
+      "managerId": 315,
+      "teamName": "Zoho Recruit Mobile UI",
+      "teamStrength": 2
+    },
+    {
+      "id": 106,
+      "managerId": 316,
+      "teamName": "Zoho Recruit Automation",
+      "teamStrength": 10
+    },
+    {
+      "id": 107,
+      "managerId": 317,
+      "teamName": "Zoho Recruit Quality Assurance",
+      "teamStrength": 5
+    },
+    {
+      "id": 108,
+      "managerId": 318,
+      "teamName": "Zoho Recruit Tech Support",
+      "teamStrength": 5
+    },
+    {
+      "id": 109,
+      "managerId": 319,
+      "teamName": "Zoho Recruit Content Support",
+      "teamStrength": 5
+    }
   ]
 }
